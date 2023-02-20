@@ -1,8 +1,8 @@
 # Rai Play Sound (Community Edition) for Sonos
 
-**Rai Play Sound (Community Edition)** is a dedicated and thus an alternative integration to existing solutions of radio station aggregators such as TuneIn or Sonos Radio, which also relys on TuneIn.
+**Rai Play Sound (Community Edition)** is a dedicated and thus alternative integration to existing solutions from radio station aggregators, such as TuneIn or Sonos Radio.
 
-<img src="https://raw.githubusercontent.com/public-broadcasting/bbc-sounds-community-edition-for-sonos/main/img/rai-play-sound-community-edition-demo.gif">
+<img src="https://raw.githubusercontent.com/public-broadcasting/rai-play-sound-community-edition-for-sonos/main/img/rai-play-sound-community-edition-demo.gif">
 
 ---
 
